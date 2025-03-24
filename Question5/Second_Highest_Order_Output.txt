@@ -1,0 +1,7 @@
+The Second Highest Order Detail is displayed below:
+Order_Reference: 2
+ORDER_PERIOD: January 10, 2022
+SUPPLIER_NAME: MOTTOWAY CORP.
+ORDER_TOTAL_AMOUNT:    750,000.00
+Order_Status: Open
+INVOICE_REFERENCES: INV_PO002.1|INV_PO002.2|INV_PO002.3

@@ -1,0 +1,15 @@
+"ORDER_REF","ORDER_DATE","SUPPLIER_ID","ORDER_TOTAL_AMOUNT","ORDER_DESCRIPTION","ORDER_STATUS"
+PO001,2022-01-03 00:00:00.000,1,10000,Vehicle Spare parts,Closed
+PO002,2022-01-10 00:00:00.000,2,750000,Purchase of Car,Open
+PO003,2022-01-24 00:00:00.000,3,57300,Computer screens,Closed
+PO004,2022-02-07 00:00:00.000,4,6800,Purchase of Stationeries,Closed
+PO005,2022-04-07 00:00:00.000,5,21000,International Magazines,Closed
+PO006,2022-02-16 00:00:00.000,6,250000,Stationery orders,Open
+PO007,2022-06-03 00:00:00.000,7,26700,Taxi services fees,Closed
+PO008,2022-06-05 00:00:00.000,8,85200,Orders of computer spare parts,Open
+PO009,2022-06-18 00:00:00.000,9,36800,Security vests,Open
+PO010,2022-07-03 00:00:00.000,10,182700,Electronic spare parts,Closed
+PO011,2022-07-06 00:00:00.000,4,43200,Purchase of Stationeries,Closed
+PO012,2022-08-16 00:00:00.000,1,265000,Vehicle Spare parts,Open
+PO013,2022-08-20 00:00:00.000,2,5819625,Purchase of Cars,Closed
+PO014,2022-09-15 00:00:00.000,3,400120,Purchases of Digital equipment,Open

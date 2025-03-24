@@ -1,0 +1,73 @@
+"PAYMENT_ID","INVOICE_REFERENCE","ORDER_LINE_ID","INVOICE_DATE","INVOICE_STATUS","INVOICE_HOLD_REASON","INVOICE_AMOUNT","INVOICE_DESCRIPTION"
+1,INV_PO001,1,2022-02-28 00:00:00.000,Paid,,2500,Part payment for vehicle spare parts
+2,INV_PO001,2,2022-02-28 00:00:00.000,Paid,,600,Part payment for vehicle spare parts
+3,INV_PO002.1,3,2022-03-01 00:00:00.000,Paid,,100000,Part payment for purchase of car
+4,INV_PO003.1,4,2022-03-22 00:00:00.000,Paid,,22000,Purchase of screens.
+5,INV_PO003.1,5,2022-03-22 00:00:00.000,Paid,,20300,Purchase of screens.
+6,INV_PO003.1,6,2022-03-22 00:00:00.000,Paid,,5000,Purchase of screens.
+7,INV_PO001,7,2022-02-28 00:00:00.000,Paid,,2000,Part payment for vehicle spare parts
+8,INV_PO004,8,2022-02-15 00:00:00.000,Paid,,2000,Payment for pen
+9,INV_PO004,9,2022-02-15 00:00:00.000,Paid,,1200,Payment for pencil
+10,INV_PO001,10,2022-02-28 00:00:00.000,Paid,,800,Part payment for vehicle spare parts
+11,INV_PO002.2,11,2022-05-02 00:00:00.000,Paid,,300000,Part payment for purchase of car
+12,INV_PO005.1,12,2022-05-18 00:00:00.000,Pending,Damaged magazine,3000,
+13,INV_PO005.1,13,2022-05-18 00:00:00.000,Paid,,5000,
+14,INV_PO003.2,14,2022-05-15 00:00:00.000,Paid,,10000,Final payment for purchase of screens.
+15,INV_PO002.3,15,2022-08-05 00:00:00.000,Pending,,249000,Final payment for purchase of car
+16,INV_PO004.1,16,2022-03-20 00:00:00.000,Paid,,3000,Paper reams.
+17,INV_PO005.2,18,2022-06-22 00:00:00.000,Paid,,8000,
+18,INV_PO005.2,19,2022-06-22 00:00:00.000,Paid,,5000,
+19,INV_PO001.1,20,2022-04-04 00:00:00.000,Paid,,3000,Final payment for vehicle spare parts
+20,INV_PO001.1,21,2022-04-04 00:00:00.000,Paid,,1100,Final payment for vehicle spare parts
+21,INV_PO006.1,22,2022-03-22 00:00:00.000,Paid,,24300,First delivery
+22,INV_PO008.1,23,2022-08-02 00:00:00.000,Paid,,15250,Computer oders invoice - 1
+23,INV_PO008.1,24,2022-08-02 00:00:00.000,Paid,,25000,Computer oders invoice - 1
+24,INV_PO009.1,25,2022-08-24 00:00:00.000,Paid,,22500,Security vests
+25,INV_PO010.1,26,2022-08-15 00:00:00.000,Paid,,98000,Electronic spare parts - Inv 1
+26,INV_PO010.1,27,2022-08-15 00:00:00.000,Paid,,17500,Electronic spare parts - Inv 1
+27,INV_PO010.1,28,2022-09-02 00:00:00.000,Paid,,28000,Electronic spare parts - Inv 2
+28,INV_PO010.1,29,2022-09-02 00:00:00.000,Paid,,18200,Electronic spare parts - Inv 2
+29,INV_PO010.1,30,2022-08-15 00:00:00.000,Paid,,21000,Electronic spare parts - Inv 1
+30,INV_PO011.1,31,2022-09-18 00:00:00.000,Paid,,3200,Stationeries
+31,INV_PO006.3,32,2022-05-21 00:00:00.000,Paid,,25400,Third delivery
+32,INV_PO011.1,33,2022-09-18 00:00:00.000,Paid,,40000,Stationeries
+33,INV_PO012.1,34,2022-08-07 00:00:00.000,Paid,,3450,Vehicle spare parts - Part Pay 1
+34,INV_PO006.4,35,2022-06-17 00:00:00.000,Paid,,50200,Fourth delivery
+35,INV_PO008.2,36,2022-08-28 00:00:00.000,Paid,,6950,Vehicle spare parts - Part Pay 2
+36,INV_PO012.2,37,2022-09-04 00:00:00.000,Paid,,40000,Vehicle spare parts - Part Pay 2
+37,INV_PO012.1,38,2022-08-07 00:00:00.000,Paid,,37800,Vehicle spare parts - Part Pay 1
+38,INV_PO012.2,39,2022-09-04 00:00:00.000,Paid,,12500,Vehicle spare parts - Part Pay 2
+39,INV_PO012.3,40,2022-09-29 00:00:00.000,Paid,,28000,Vehicle spare parts - Part Pay 3
+40,INV_PO012.1,41,2022-08-07 00:00:00.000,Paid,,7250,Vehicle spare parts - Part Pay 1
+41,INV_PO012.2,42,2022-09-04 00:00:00.000,Paid,,55870,Vehicle spare parts - Part Pay 2
+42,INV_PO012.3,43,2022-09-29 00:00:00.000,Paid,,43750,Vehicle spare parts - Part Pay 3
+43,INV_PO012.3,44,2022-09-29 00:00:00.000,Paid,,12600,Vehicle spare parts - Part Pay 3
+44,INV_PO006.5,45,2022-07-27 00:00:00.000,Paid,,70800,Fifth delivery
+45,INV_PO013.1,46,2022-09-28 00:00:00.000,Paid,,1452500,Car purchase
+46,INV_PO013.1,47,2022-09-28 00:00:00.000,Paid,,1974000,Car purchase
+47,INV_PO013.1,48,2022-09-28 00:00:00.000,Paid,,1302000,Car purchase
+48,INV_PO013.1,49,2022-09-28 00:00:00.000,Paid,,1091125,Car purchase
+49,INV_PO006.6,50,2022-08-16 00:00:00.000,Paid,,60000,Sixth delivery
+50,INV_PO007.1,51,2022-07-30 00:00:00.000,Paid,,4500,Trip for Saunders
+51,INV_PO007.1,52,2022-07-30 00:00:00.000,Paid,,4200,Trip for Mike
+52,INV_PO007.1,54,2022-07-30 00:00:00.000,Paid,,4800,Trip for Shobnee
+53,INV_PO007.1,55,2022-07-30 00:00:00.000,Paid,,3700,Trip for Mikaen
+54,INV_PO006.2,56,2022-04-18 00:00:00.000,Paid,,4300,Second delivery
+55,INV_PO014.1,57,2022-10-03 00:00:00.000,Paid,,5600,Invoice payment SN#001
+56,INV_PO014.2,58,2022-10-15 00:00:00.000,Paid,,13250,Invoice payment SN#002
+57,INV_PO014.2,59,2022-10-15 00:00:00.000,Paid,,10000,Invoice payment SN#002
+58,INV_PO014.3,60,2022-10-27 00:00:00.000,Paid,,15900,Invoice payment SN#003
+59,INV_PO014.4,61,2022-11-05 00:00:00.000,Pending,"1 faulty HD to return before payment",13850,Invoice payment SN#004
+60,INV_PO014.3,63,2022-10-27 00:00:00.000,Paid,,54850,Invoice payment SN#003
+61,INV_PO014.1,64,2022-10-03 00:00:00.000,Paid,,17300,Invoice payment SN#001
+62,INV_PO014.1,65,2022-10-03 00:00:00.000,Paid,,13500,Invoice payment SN#001
+63,INV_PO014.1,66,2022-10-03 00:00:00.000,Paid,,4275,Invoice payment SN#001
+64,INV_PO014.3,67,2022-10-27 00:00:00.000,Pending,Pointers not compatible with system,900,Invoice payment SN#003
+65,INV_PO014.4,68,2022-11-05 00:00:00.000,Paid,,17600,Invoice payment SN#004
+66,INV_PO014.4,69,2022-11-05 00:00:00.000,Paid,,11900,Invoice payment SN#004
+67,INV_PO014.1,70,2022-10-03 00:00:00.000,Paid,,7920,Invoice payment SN#001
+68,INV_PO014.2,71,2022-10-15 00:00:00.000,Pending,,3550,Invoice payment SN#002
+69,INV_PO014.1,72,2022-10-03 00:00:00.000,Paid,,15200,Invoice payment SN#001
+70,INV_PO014.3,73,2022-10-27 00:00:00.000,Paid,,5300,Invoice payment SN#003
+71,INV_PO014.3,74,2022-10-27 00:00:00.000,Paid,,12125,Invoice payment SN#003
+72,INV_PO014.1,75,2022-10-03 00:00:00.000,Pending,,72500,Invoice payment SN#001
